@@ -5,7 +5,7 @@
 
 <p>My name is Noemi, and the world of the web is my great passion. Currently, I'm taking training courses where I'm learning new programming languages to become a Front-End developer one day.</p>
 
-- 🌱 I’m currently learning **Javascript, Typescript, Angular**
+- 🌱 I’m currently learning **Javascript, Typescript, Angular.**
 
 - 👨‍💻 All of my projects are available at [https://noemivadala.github.io/](https://noemivadala.github.io/)
 
